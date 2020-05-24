@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Dark Mode Whatsapp",
+  "description": "Dark theme for whatsapp web",
+  "version": "0.1",
+  "icons": {
+    "128": "128.png"
+    },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://web.whatsapp.com/"
+      ],
+      "css": [
+        "style.css"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
