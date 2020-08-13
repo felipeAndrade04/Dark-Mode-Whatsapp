@@ -6,7 +6,6 @@
   <img alt="Whatsapp dark" src="https://ik.imagekit.io/lzkiso6iri/dark_f7W26eDvf.png" />
   
   <br/>
-  <br/>
   
   <img alt="Whatsapp light" src="https://ik.imagekit.io/lzkiso6iri/light_itpK_GL97d.png" />
 </h1>
